@@ -1,6 +1,7 @@
 package com.husky.controller;
 
 import com.husky.pojo.Result;
+import com.husky.utils.AliOssUtil;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
